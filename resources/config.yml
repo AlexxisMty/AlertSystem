@@ -1,0 +1,8 @@
+prefix: "§7[§4Alert§7] "
+interval: 300
+massages:
+  - "§7Welcome to the server! Enjoy your stay!"
+  - "§7Don't forget to check out our website for updates!"
+  - "§7Join our Discord community for more fun!"
+  - "§7Remember to follow the rules and be respectful!"
+  - "§7Have a great time playing with us!"
