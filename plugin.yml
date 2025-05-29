@@ -1,0 +1,23 @@
+name: AlertSystem
+
+main: AlertSystem\AlertSystem
+api: 5.28.2
+website: https://github.com/AlexxisMty
+
+version: 0.0.2-BETA
+
+authors:
+  - "Mexipajas"
+
+description: "Alert messages from the console to all players."
+
+commands:
+  alert:
+    description: "Alert a message to all players."
+    permission: alertmessage.use
+
+permissions:
+  alertmessage.use:
+    default: op
+  alertreload.use:
+    default: op
